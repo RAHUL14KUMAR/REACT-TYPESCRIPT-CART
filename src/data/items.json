@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "https://i.pinimg.com/originals/70/b3/1a/70b31afe7b5fc7803bf650d74adf5a5e.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "https://e1.pxfuel.com/desktop-wallpaper/904/536/desktop-wallpaper-allu-arjun-hair-style-allu-arjun-thumbnail.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 1.05,
+      "imgUrl": "https://w0.peakpx.com/wallpaper/544/141/HD-wallpaper-allu-arjun-alluarjun-for-allu-arjun.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "https://e1.pxfuel.com/desktop-wallpaper/915/595/desktop-wallpaper-allu-arjun-style-thumbnail.jpg"
+    }
+  ]
